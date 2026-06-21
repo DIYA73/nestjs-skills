@@ -1,3 +1,8 @@
+---
+name: nestjs-testing
+description: "Unit and e2e testing patterns for NestJS services, controllers, and gateways. Use when writing unit tests for a NestJS service or controller, writing e2e tests for API endpoints, or mocking TypeORM repositories or external services."
+---
+
 # nestjs-testing
 
 Unit and e2e testing patterns for NestJS services, controllers, and gateways.

@@ -1,3 +1,8 @@
+---
+name: docker-nestjs
+description: "Production Dockerfile and docker-compose for NestJS + PostgreSQL + Redis."
+---
+
 # docker-nestjs
 
 Production Dockerfile and docker-compose for NestJS + PostgreSQL + Redis.

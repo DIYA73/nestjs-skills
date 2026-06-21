@@ -1,3 +1,8 @@
+---
+name: typeorm-patterns
+description: "TypeORM entity design, relations, migrations, and query patterns for NestJS + PostgreSQL."
+---
+
 # typeorm-patterns
 
 TypeORM entity design, relations, migrations, and query patterns for NestJS + PostgreSQL.

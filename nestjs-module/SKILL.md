@@ -1,3 +1,8 @@
+---
+name: nestjs-module
+description: "Scaffold any NestJS module with correct structure, imports, and wiring. Use when creating a new module."
+---
+
 # nestjs-module
 
 Scaffold any NestJS module with correct structure, imports, and wiring.

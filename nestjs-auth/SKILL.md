@@ -1,3 +1,8 @@
+---
+name: nestjs-auth
+description: "JWT authentication with guards, decorators, and role-based access in NestJS."
+---
+
 # nestjs-auth
 
 JWT authentication with guards, decorators, and role-based access in NestJS.

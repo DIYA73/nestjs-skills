@@ -13,14 +13,13 @@ Drop into `~/.claude/skills/` and Claude Code auto-discovers them.
 | `bullmq-queue` | Job queues, processors, retry logic, cron jobs |
 | `websocket-gateway` | Socket.io gateways, rooms, Redis pub/sub streaming |
 | `nestjs-auth` | JWT auth, guards, role-based access, decorators |
-| `redis-caching` | Cache-aside pattern, TTL, invalidation strategies |
 | `docker-nestjs` | Production Dockerfile, docker-compose, health checks |
 | `nestjs-testing` | Unit tests, e2e tests, mocking repos and queues |
 
 ## Install
 
 ```bash
-git clone https://github.com/DIYA73/nestjs-skills ~/.claude/skills/nestjs-skills
+git clone https://github.com/DIYA73/nestjs-skills /tmp/nestjs-skills && mkdir -p ~/.claude/skills && mv /tmp/nestjs-skills/*/ ~/.claude/skills/ && rm -rf /tmp/nestjs-skills
 ```
 
 ## Usage
@@ -32,7 +31,6 @@ add a BullMQ email queue with retry logic
 
 protect this route with JWT auth
 
-add Redis caching to the findAll method
 
 write unit tests for UsersService
 ## Stack

@@ -1,3 +1,8 @@
+---
+name: bullmq-queue
+description: "BullMQ job queues, processors, retry logic, and scheduled jobs in NestJS."
+---
+
 # bullmq-queue
 
 BullMQ job queues, processors, retry logic, and scheduled jobs in NestJS.

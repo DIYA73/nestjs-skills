@@ -1,3 +1,8 @@
+---
+name: websocket-gateway
+description: "Socket.io WebSocket gateways in NestJS — real-time events, rooms, Redis pub/sub streaming."
+---
+
 # websocket-gateway
 
 Socket.io WebSocket gateways in NestJS — real-time events, rooms, Redis pub/sub streaming.

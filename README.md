@@ -31,7 +31,6 @@ add a BullMQ email queue with retry logic
 
 protect this route with JWT auth
 
-
 write unit tests for UsersService
 ## Stack
 
